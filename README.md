@@ -1,4 +1,4 @@
-EDIT
+Re-EDIT
 
 # Azure Policy Samples
 
